@@ -45,7 +45,7 @@ exports.app = function(request) {
       }
    }
 
-   return response.notFound(request.pathInfo);
+   return response.bad().text("Invalid request.");
 }
 
 // main script to start application for testing
