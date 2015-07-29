@@ -1,2 +1,9 @@
 .DS_Store
 WEB-INF/appengine-web.xml
+WEB-INF/lib/appengine-api-1.0-sdk-1.9.17.jar
+WEB-INF/lib/jaffl-0.5.12.jar
+WEB-INF/lib/jnr-posix-3.0.17.jar
+WEB-INF/lib/log4j-1.2.14.jar
+WEB-INF/lib/rhino-1.7R5.jar
+WEB-INF/lib/ringo-core.jar
+WEB-INF/lib/ringo-modules.jar
